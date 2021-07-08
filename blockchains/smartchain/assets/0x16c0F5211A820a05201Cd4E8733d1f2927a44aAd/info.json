@@ -1,0 +1,10 @@
+ "name": "Hock",
+    "website": "https://hockfire.com/",
+    "description": "Deflationary BEP-20 token that uses the reflection model to benefit holders and guarantee the project longevity.",
+    "explorer": "https://bscscan.com/address/0x16c0F5211A820a05201Cd4E8733d1f2927a44aAd",
+    "type": "BEP20",
+    "symbol": "HOCK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16c0F5211A820a05201Cd4E8733d1f2927a44aAd"
+}
